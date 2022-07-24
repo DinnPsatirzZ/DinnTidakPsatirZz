@@ -45,4 +45,5 @@ Ga ada awikwok luwh anjim
                'https://anabotofc.herokuapp.com/': 'AnaBot',
                  'https://melcanz.com': 'amel',
                  'https://botstyle-api.herokuapp.com': 'Eyar749L',
+'https://violetics.pw': 'beta'
   -->
